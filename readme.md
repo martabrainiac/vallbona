@@ -73,3 +73,5 @@ git push
 ![alt text](image-6.png)
 # EX 11
 ![alt text](image-7.png)
+## EX 12
+![alt text](image-8.png)
